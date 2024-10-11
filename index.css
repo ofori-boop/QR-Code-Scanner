@@ -9,7 +9,7 @@ button {
     display: inline-block; 
     font-size: 16px;
     transition-duration: 0.4s;
-    cursor: pointer; 
+    cursor: pointer;   
     border-radius: 8px;
   }
   
